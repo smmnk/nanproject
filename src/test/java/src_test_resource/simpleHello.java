@@ -8,6 +8,7 @@ public class simpleHello {
 		System.out.println("Hello WORLD");
                 sum();
                 add();
+                System.out.println("all things done here!");
 	}
 
 	public static void sum(){
