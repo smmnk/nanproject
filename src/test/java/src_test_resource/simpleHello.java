@@ -6,7 +6,11 @@ public class simpleHello {
 
 
 		System.out.println("Hello WORLD");
+                simpleHello.sum();
+	}
 
+	public static void sum(){
+	System.out.println("sum method");
 	}
 
 }
