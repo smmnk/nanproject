@@ -9,6 +9,8 @@ public class simpleHello {
                 sum();
                 add();
                 System.out.println("all things done here!");
+		System.out.println("all things done here! at github");
+		
 	}
 
 	public static void sum(){
