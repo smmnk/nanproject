@@ -6,11 +6,16 @@ public class simpleHello {
 
 
 		System.out.println("Hello WORLD");
-                simpleHello.sum();
+                sum();
+                add();
 	}
 
 	public static void sum(){
-	System.out.println("sum method");
+	System.out.println("sum method is called");
+	}
+	
+	public static void add() {
+		System.out.println("add method is called");
 	}
 
 }
